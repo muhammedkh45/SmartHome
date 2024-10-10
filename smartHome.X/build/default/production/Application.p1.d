@@ -1,0 +1,25 @@
+build/default/production/Application.p1:  \
+Application.c  \
+Application.h  \
+mcc_generated_files/system/system.h  \
+mcc_generated_files/system/config_bits.h  \
+mcc_generated_files/system/../system/clock.h  \
+mcc_generated_files/system/../system/pins.h  \
+mcc_generated_files/system/../uart/eusart.h  \
+mcc_generated_files/system/../uart/../system/system.h  \
+mcc_generated_files/system/../uart/uart_drv_interface.h  \
+mcc_generated_files/system/../uart/uart_types.h  \
+mcc_generated_files/system/../i2c_host/mssp.h  \
+mcc_generated_files/system/../nvm/nvm.h  \
+mcc_generated_files/system/../system/interrupt.h  \
+AECUL_Modules/RealTimeClockDs1307/RealTimeClockDs1307.h  \
+AECUL_Modules/RealTimeClockDs1307/../../mcc_generated_files/i2c_host/i2c_master_example.h  \
+AECUL_Modules/RealTimeClockDs1307/../USART_LoggingDebuggingData/UART_LoggingDebugData.h  \
+AECUL_Modules/EEPROM_24C02C/EPROM_24C02C.h  \
+AECUL_Modules/TemSensor_TC74/TemSensor_TC74.h  \
+AECUL_Modules/Keypad/KeyPad.h  \
+AECUL_Modules/LCD/ecu_chr_lcd_cfg.h  \
+AECUL_Modules/LCD/ecu_chr_lcd.h  \
+AECUL_Modules/LCD/../../MCAL/GPIO/hal_gpio.h  \
+AECUL_Modules/LCD/../../MCAL/GPIO/../../std_Types.h  \
+AECUL_Modules/LCD/../../MCAL/GPIO/hal_gpio_cfg.h 

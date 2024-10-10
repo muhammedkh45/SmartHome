@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Smart_Home/SmartHome_SlaveMCU/SmartHome_SlaveMCU.X/main.c</file>
+            <file>file:/E:/Smart_Home/SmartHome_SlaveMCU/SmartHome_SlaveMCU.X/MCAL/GPIO/hal_gpio.c</file>
+            <file>file:/E:/Smart_Home/SmartHome_SlaveMCU/SmartHome_SlaveMCU.X/MCAL/GPIO/hal_gpio.h</file>
+            <file>file:/E:/Smart_Home/SmartHome_SlaveMCU/SmartHome_SlaveMCU.X/std_Types.h</file>
+            <file>file:/E:/Smart_Home/SmartHome_SlaveMCU/SmartHome_SlaveMCU.X/HAL/LCD/ecu_chr_lcd_cfg.h</file>
+            <file>file:/E:/Smart_Home/SmartHome_SlaveMCU/SmartHome_SlaveMCU.X/HAL/LCD/ecu_chr_lcd.h</file>
+            <file>file:/E:/Smart_Home/SmartHome_SlaveMCU/SmartHome_SlaveMCU.X/HAL/LCD/ecu_chr_lcd.c</file>
+        </group>
+    </open-files>
+</project-private>
